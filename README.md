@@ -8,6 +8,8 @@ This is my introduction
   <body>
 <h1>This is html project on git hub</h1>
 <p>I am Gauri Kulkarni student of second year enginering of AI&DS department</p>
-<p>html stands for Hypertext Markup Language</p>
+<p>Html stands for Hypertext Markup Language It is widely used world wide for making websites as it is very simple .</p>
+
+  
  </body>
 </html>
